@@ -33,6 +33,8 @@ console.log( fullName );
 */
 console.log( me.favThreeFoods[0] );
 console.log( me.favThreeFoods[2] );
+//alt solution for second part:
+//console.log( me.favThreeFoods[ me.favThreeFoods.length - 1 ] );
 
 
 /* 4. Change a property of an existing object.
